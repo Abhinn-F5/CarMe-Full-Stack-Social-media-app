@@ -1,4 +1,4 @@
-# CarMe Social Media Application
+# Euroline Social Media Application
 
 Social network for car enthusiasts | JavaScript, React, Tailwind, Sanity 
 
